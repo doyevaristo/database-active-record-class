@@ -1,5 +1,5 @@
 {
-    "name": "atayahmet/database-active-record-class",
+    "name": "doyevaristo/database-active-record-class",
     "type": "library",
     "description": "The written for fast, practical database active record actions",
     "keywords": ["external-db", "codeigniter", "php-5.3"],
